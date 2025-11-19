@@ -1,0 +1,1 @@
+This folder contains SQL queries and scripts for data analysis tasks such as joins, aggregations, window functions, and business insights. Each SQL file focuses on solving a specific data problem using clean and efficient SQL.
