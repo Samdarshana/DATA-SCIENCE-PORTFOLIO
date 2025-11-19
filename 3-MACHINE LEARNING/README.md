@@ -1,0 +1,1 @@
+This folder contains machine learning notebooks focused on building, training, and evaluating models. Projects include classification, regression, feature engineering, model comparison and interpretation. More ML models will be added as I expand my portfolio. 
