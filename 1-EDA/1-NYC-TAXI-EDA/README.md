@@ -1,4 +1,4 @@
-                                                                                            NYC TAXI EDA
+                                                                            NYC TAXI EDA
 
 
 This folder contains exploratory data analysis performed on the NYC Taxi dataset. 
